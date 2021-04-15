@@ -74,12 +74,18 @@ hr {
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
-#menu a.navbar-brand {
+/* #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;
 	font-size: 24px;
 	font-weight: 700;
 	color: #333;
 	text-transform: uppercase;
+} */
+
+#menu a.navbar-brand img {
+	width: 100px;
+	height: 100px;
+	margin: 0;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;
@@ -196,15 +202,17 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro .overlay {
 	background: rgba(0,0,0,0.2);
 }
-.intro h1 {
+.intro h2 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
-	font-size: 82px;
+	/* font-size: 82px; */
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
 	margin-bottom: 10px;
 }
+
+
 .intro h1 span {
 	font-weight: 800;
 	color: #5ca9fb;

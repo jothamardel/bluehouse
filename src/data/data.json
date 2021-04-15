@@ -1,17 +1,17 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Learn. Innovate. Impact. ",
+        "paragraph": "Build software enginneering teams with top talent."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "We exist to create a progressive culture in society. Bluehouse Technologies was founded on impact: Technology is progressing, but adoption is slow. We started Bluehouse Technologies to identify gaps in different sectors and building solutions around these existing problems.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Professional",
+            "Focus",
+            "Experience",
+            "Srong Work Ethic"
         ],
         "Why2": [
             "Aliquip ex ea commodo",
@@ -21,33 +21,18 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
+            "icon": "fa fa-briefcase",
+            "name": "Consultancy",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
+            "icon": "fa fa-group",
+            "name": "Training",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
+            "icon": "fa fa-gear",
+            "name": "Solutions",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
 
@@ -85,46 +70,46 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "img": "img/team/bb.jpg",
+            "name": "Mbiplang Ardel",
+            "job": "CEO/Senior Software Engineer"
         },
         {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "img": "img/team/shola.jpg",
+            "name": "OluwaShola Joseph Akanbi",
+            "job": "Program coordinator"
         }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "img": "img/team/tami.jpg",
+            "name": "Tamimia Nuhu",
+            "job": "Frontend Engineer"
         },
         {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "img": "img/team/eo.jpg",
+            "name": "Emmanuel Ogunwede",
+            "job": "Data Science/Machine Learning Engineer"
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
+        "address": "No. 7 Rima Street Maitama, Abuja. ",
+        "phone": "+234 703 3680 280",
+        "email": "ardelmbiplang@gmail.com",
+        "facebook": "https://web.facebook.com/BlueHouseTechnologies",
+        "twitter": "https://twitter.com/Blue_House_Tech?fbclid=IwAR3Id9PP5J5EadQmAP3dFjC1odHj_U9djHoohQ_EkbVggrZ3UqfvFjeE7vs",
         "youtube": "youtube.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
+            "title": "Consultancy",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
+            "title": "Training",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
+            "title": "Solutions",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
