@@ -6,7 +6,7 @@
 
     },
     "About": {
-        "paragraph": "We exist to create a progressive culture in society. Bluehouse Technologies was founded on impact: Technology is progressing, but adoption is slow. We started Bluehouse Technologies to identify gaps in different sectors and building solutions around these existing problems.",
+        "paragraph": "Bluehouse Technologies was founded to bridge the gap between the pace of technological innovations and adoption by building and deploying solutions where they are needed and training others to do the same. Our solutions are tailored to address problems across different sectors and accelerate growth through digital transformation for our clients. We listen, take notes and design solutions unique to your business context and according to your needs. Then we ask for feedback and help you achieve full functionality with our relentless services.",
         "Why": [
             "Professional",
             "Focus",
@@ -23,17 +23,17 @@
     "Services": [{
             "icon": "fa fa-briefcase",
             "name": "Consultancy",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "Bluehouse Technologies offers consultancy to companies seeking to integrate digital technology to their business processes."
         },
         {
             "icon": "fa fa-group",
             "name": "Training",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "We help companies build proficient IT teams, train developers to proffer solutions to their business problems, and also build and manage outsourcing teams of software engineers."
         },
         {
             "icon": "fa fa-gear",
             "name": "Solutions",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "Our team of certified and skilled experts has over 7 years of experience in networking, systems engineering, full stack software development, artificial intelligence, building, deploying and managing production level software and web solutions in different industries, mentoring developers and managing developers training."
         }
 
 
@@ -119,3 +119,8 @@
         }
     ]
 }
+
+
+
+
+ 
