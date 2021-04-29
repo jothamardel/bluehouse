@@ -1,0 +1,8 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="blobSvg">
+  <defs>
+    <pattern id="pattern" x="0" y="0" width="6" height="6" patternUnits="userSpaceOnUse" fill="#6c7c93">
+      <path d="M5 0h1L0 6V5zM6 5v1H5z"></path>
+    </pattern>
+  </defs>
+  <path id="blob" d="M371,306.5Q340,363,270.5,414Q201,465,137.5,400Q74,335,70,248Q66,161,146,152.5Q226,144,299.5,120Q373,96,387.5,173Q402,250,371,306.5Z" fill="url(#pattern)"></path>
+</svg>

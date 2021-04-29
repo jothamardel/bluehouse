@@ -251,6 +251,12 @@ header .intro-text {
 #about {
 	padding: 100px 0;
 }
+
+.about-text {
+	width: 100%;
+	background: url(../img/blob.svg) center no-repeat;
+}
+
 #about h3 {
 	font-size: 22px;
 	margin: 0 0 20px 0;
@@ -297,7 +303,9 @@ header .intro-text {
 /* Services Section */
 #services {
 	padding: 100px 0;
-	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+	/* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
+	/* background: url(../img/blob.svg) center no-repeat; */
+	background: linear-gradient(to left, #6372ff 0%, #5ca9fb 100%);
 	color: #fff;
 }
 #services .service-desc {
@@ -336,7 +344,14 @@ header .intro-text {
 }
 #services .service-desc {
 	margin-bottom: 40px;
+
 }
+
+.container .row {
+	background: url(../img/blob-service.svg) center no-repeat;
+}
+
+
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;

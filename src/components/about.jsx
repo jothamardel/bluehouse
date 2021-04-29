@@ -1,5 +1,5 @@
 export const About = (props) => {
-  return (
+  return ( 
     <div id='about'>
       <div className='container'>
         <div className='row'>

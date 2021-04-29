@@ -21,16 +21,19 @@
         ]
     },
     "Services": [{
+            "blob": "img/blob.svg",
             "icon": "fa fa-briefcase",
             "name": "Consultancy",
             "text": "Bluehouse Technologies offers consultancy to companies seeking to integrate digital technology to their business processes."
         },
         {
+            "blob": "img/blob.svg",
             "icon": "fa fa-group",
             "name": "Training",
             "text": "We help companies build proficient IT teams, train developers to proffer solutions to their business problems, and also build and manage outsourcing teams of software engineers."
         },
         {
+            "blob": "img/blob.svg",
             "icon": "fa fa-gear",
             "name": "Solutions",
             "text": "Our team of certified and skilled experts has over 7 years of experience in networking, systems engineering, full stack software development, artificial intelligence, building, deploying and managing production level software and web solutions in different industries, mentoring developers and managing developers training."
@@ -72,21 +75,25 @@
     "Team": [{
             "img": "img/team/bb.jpg",
             "name": "Mbiplang Ardel",
-            "job": "CEO/Senior Software Engineer"
+            "job": "CEO/Senior Software Engineer",
+            "blob": "img/blob.svg"
         },
         {
             "img": "img/team/shola.jpg",
             "name": "OluwaShola Joseph Akanbi",
-            "job": "Program coordinator"
+            "job": "Program coordinator",
+            "blob": "img/blob.svg"
         }, {
             "img": "img/team/tami.jpg",
             "name": "Tamimia Nuhu",
-            "job": "Frontend Engineer"
+            "job": "Frontend Engineer",
+            "blob": "img/blob.svg"
         },
         {
             "img": "img/team/eo.jpg",
             "name": "Emmanuel Ogunwede",
-            "job": "Data Science/Machine Learning Engineer"
+            "job": "Data Science/Machine Learning Engineer",
+            "blob": "img/blob.svg"
         }
     ],
     "Contact": {
