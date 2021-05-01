@@ -17,12 +17,14 @@ export const Contact = (props) => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    console.log(name, email, message);
-    console.log(e.target)
-    emailjs
-      .sendForm(
-        'service_49slb3p', 'template_btbsipi', { name, email, message }, 'user_OfBOVP22E779HkqjhdPl8'
-      )
+    // console.log(name, email, message);
+    // console.log(e.target)
+    emailjs.send("service_7g5wfwg","template_6xp8xe6",{
+      from_name: name,
+      to_name: "Bluehouse",
+      reply_to: email,
+      message,
+      })
       .then(
         (result) => {
           console.log(result.text)
