@@ -130,12 +130,12 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'} target="_blank">
+                    <a href={props.data ? props.data.facebook : '/'} target="_blank" rel="noreferrer">
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'} target="_blank">
+                    <a href={props.data ? props.data.twitter : '/'} target="_blank" rel="noreferrer">
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
