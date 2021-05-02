@@ -19,12 +19,12 @@ export const Contact = (props) => {
     e.preventDefault()
     console.log(name, email, message);
     console.log(e.target)
-    emailjs.send("service_7g5wfwg","template_6xp8xe6",{
+    emailjs.send("service_7g5wfwg", "template_6xp8xe6", {
       from_name: name,
       to_name: "Bluehouse",
       reply_to: email,
       message,
-      }, 'user_OfBOVP22E779HkqjhdPl8')
+    }, 'user_OfBOVP22E779HkqjhdPl8')
       .then(
         (result) => {
           console.log(result.text)
@@ -130,12 +130,12 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.facebook : '/'}>
+                    <a href={props.data ? props.data.facebook : '/'} target="_blank">
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
+                    <a href={props.data ? props.data.twitter : '/'} target="_blank">
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
