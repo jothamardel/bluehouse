@@ -11,7 +11,7 @@
             "Professional",
             "Focus",
             "Experience",
-            "Srong Work Ethic"
+            "Strong Work Ethic"
         ],
         "Why2": [
             "Aliquip ex ea commodo",
@@ -73,9 +73,21 @@
         }
     ],
     "Team": [{
-            "img": "img/team/bb.jpg",
+            "img": "img/team/ceo.jpg",
             "name": "Mbiplang Ardel",
             "job": "CEO/Senior Software Engineer",
+            "blob": "img/blob.svg"
+        },
+        {
+            "img": "img/team/andy.jpg",
+            "name": "Andy Mannok",
+            "job": "Director",
+            "blob": "img/blob.svg"
+        },
+        {
+            "img": "img/team/emma.jpg",
+            "name": "Emmanuel Ambi James",
+            "job": "Director/Software Engineer",
             "blob": "img/blob.svg"
         },
         {
@@ -83,18 +95,8 @@
             "name": "OluwaShola Joseph Akanbi",
             "job": "Program coordinator",
             "blob": "img/blob.svg"
-        }, {
-            "img": "img/team/tami.jpg",
-            "name": "Tamimia Nuhu",
-            "job": "Frontend Engineer",
-            "blob": "img/blob.svg"
-        },
-        {
-            "img": "img/team/eo.jpg",
-            "name": "Emmanuel Ogunwede",
-            "job": "Data Science/Machine Learning Engineer",
-            "blob": "img/blob.svg"
-        }
+        } 
+        
     ],
     "Contact": {
         "address": "No. 7 Rima Street Maitama, Abuja. ",
