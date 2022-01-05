@@ -80,7 +80,7 @@
         },
         {
             "img": "img/team/andy.jpg",
-            "name": "Andy Mannok",
+            "name": "Andi Mannok",
             "job": "Director",
             "blob": "img/blob.svg"
         },
@@ -92,7 +92,7 @@
         },
         {
             "img": "img/team/shola.jpg",
-            "name": "OluwaShola Joseph Akanbi",
+            "name": "Oluwashola Joseph Akanbi",
             "job": "Program coordinator",
             "blob": "img/blob.svg"
         } 
@@ -100,11 +100,12 @@
     ],
     "Contact": {
         "address": "No. 7 Rima Street Maitama, Abuja. ",
-        "phone": "0700 0000 000",
+        "phone": "+234-903-314-8507",
         "email": "info@bluehouseng.com",
         "facebook": "https://web.facebook.com/BlueHouseTechnologies",
         "twitter": "https://twitter.com/Blue_House_Tech?fbclid=IwAR3Id9PP5J5EadQmAP3dFjC1odHj_U9djHoohQ_EkbVggrZ3UqfvFjeE7vs",
-        "youtube": "youtube.com"
+        "youtube": "youtube.com",
+        "linkedin": "https://www.linkedin.com/company/73058699/admin/"
     },
     "Features": [{
             "icon": "fa fa-comments-o",

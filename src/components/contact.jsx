@@ -139,6 +139,11 @@ export const Contact = (props) => {
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
+                  <li>
+                    <a href={props.data ? props.data.linkedin : '/'} target="_blank" rel="noreferrer">
+                      <i className='fa fa-linkedin'></i>
+                    </a>
+                  </li>
                   {/* <li>
                     <a href={props.data ? props.data.youtube : '/'}>
                       <i className='fa fa-youtube'></i>
@@ -153,7 +158,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Bluehouse Technologies.
+            &copy; 2022 Bluehouse Technologies.
           </p>
         </div>
       </div>
