@@ -150,6 +150,7 @@ export const Contact = (props) => {
                     </a>
                   </li> */}
                 </ul>
+               
               </div>
             </div>
           </div>

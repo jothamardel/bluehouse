@@ -98,6 +98,10 @@
         } 
         
     ],
+    "Partners": [{
+        "img":"img/partners/afri.jpg",
+        "name": "Africa +"
+    }],
     "Contact": {
         "address": "No. 7 Rima Street Maitama, Abuja. ",
         "phone": "+234-903-314-8507",
